@@ -75,5 +75,7 @@ else:
 ```
 
 ### Output:
+![Screenshot 2024-10-05 143414](https://github.com/user-attachments/assets/ca1586ca-0116-45a3-9267-e3936bbff25f)
+
 
 ### Result:
